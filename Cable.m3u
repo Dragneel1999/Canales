@@ -41,8 +41,8 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge3.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
-#EXTINF:-1, GOLDEN PLUS
-https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/42_.m3u8
+#EXTINF:-1, GOLDEN PREMIER
+https://live.tvplusgratis.com/hls/cum988e8mxraxmpll/42_.m3u8?token=Ixnzaqpnc8AkLc0kgsTD_w&expires=1650183348&ip=190.143.250.235
 #EXTINF:-1, ESTUDIO UNIVERSAL
 https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1, WARNER CHANEL
@@ -70,13 +70,13 @@ https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1, STAR CHANEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1, TELENOVELAS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/56_.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/56_.m3u8?token=oX2udzf5c4BU20ukJF81fQ&expires=1650183274&ip=190.143.250.235
 #EXTINF:-1, AXN
 https://edge5-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
-#EXTINF:-1, GOLDEN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8
+#EXTINF:-1, GOLDEN EDGE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=lY934vPyfLogueId9F3Qhw&expires=1650184216&ip=190.143.250.235
 #EXTINF:-1, MULTI PREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=ysVY3WnDnZWWmKzDHl8QPg&expires=1650183778&ip=190.143.250.235
 #EXTINF:-1, AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1, TBS
