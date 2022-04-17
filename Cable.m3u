@@ -8,7 +8,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg
 #EXTINF:-1, HBO2
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 #EXTINF:-1, HBO PLUS
-https://edge-vod03-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+https://edge5-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 #EXTINF:-1, HBO FAMILY
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 #EXTINF:-1, HBO POP
@@ -34,9 +34,9 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1, CINE CANAL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 #EXTINF:-1, CINEMAX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=Dsiq_DroXFI7_cfDLmsxNg&expires=1650178688&ip=190.143.250.235
+https://edge5-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1, SPACE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=EXZBWAksn8iQTtDGZkb0Cg&expires=1650062624&ip=190.143.250.235
+https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1, PARAMOUNT
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
