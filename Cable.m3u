@@ -60,7 +60,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 #EXTINF:-1, BOOMERANG
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 #EXTINF:-1, DISNEY XD
-http://tvporinternet.eshost.com.ar/m3u/disneyxd.m3u8
+http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/2554.m3u8
 #EXTINF:-1, DISNEY CHANEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 #EXTINF:-1, DISNEY JUNIOR
