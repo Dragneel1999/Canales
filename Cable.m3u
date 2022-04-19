@@ -42,7 +42,7 @@ https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge3.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
 #EXTINF:-1, GOLDEN EDGE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=t9X4EEgQCny0eycM5jJQvw&expires=1650232351&ip=190.143.250.235
+
 #EXTINF:-1, ESTUDIO UNIVERSAL
 https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1, WARNER CHANEL
@@ -60,7 +60,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 #EXTINF:-1, BOOMERANG
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 #EXTINF:-1, DISNEY XD
-http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/2554.m3u8
+
 #EXTINF:-1, DISNEY CHANEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 #EXTINF:-1, DISNEY JUNIOR
@@ -72,13 +72,13 @@ https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 #EXTINF:-1, STAR CHANEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1, TELENOVELAS
-ttps://www.televisiongratishd.com/tlnovelas-en-vivo.html
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/56_.m3u8?token=64SkxUL4bRSJvHKpF-DTJw&
 #EXTINF:-1, AXN
 https://edge5-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1, GOLDEN
-https://ok.ru/video/5369704816199
+
 #EXTINF:-1, MULTI PREMIER
-http://tvporinternet.eshost.com.ar/m3u/multipremier.m3u8
+
 #EXTINF:-1, AMC
 https://edge5-sl.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1, TBS
@@ -86,4 +86,4 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 #EXTINF:-1, FX
 https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 #EXTINF:-1, CANAL 6
-https://www.dailymotion.com/cdn/live/video/x7nngbi.m3u8?sec=WVn4cNJlvHIjHOHh2t1zjSeOCZwepxRLeUcaXRd8qsu6pxag3139YGkM8lsHuVULILq3izS7aHWavA7apiY6HA&dmTs=161199&dmV1st=A25EDAC80541CE0EF5BEB51ECD7EECED
+
