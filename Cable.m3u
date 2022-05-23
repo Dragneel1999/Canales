@@ -60,7 +60,7 @@ https://edge5-sl.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.
 #EXTINF:-1, BOOMERANG
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 #EXTINF:-1, DISNEY XD
-
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
 #EXTINF:-1, DISNEY CHANEL
 https://edge-vod02-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 #EXTINF:-1, DISNEY JUNIOR
@@ -89,3 +89,13 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 https://edge2-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1, LIFETIME
 https://edge2-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-mp4a_145200_spa=20003.m3u8
+#EXTINF:-1, CANAL 10
+https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUzMzcwOTE0LCJzZXNzaW9uIjoiMTkwLjE0My4yNTEuMjExIiwid2hpdGVsaXN0IjpbIjE5MC4xNDMuMjUxLjIxMSJdfSwic2lnbmF0dXJlIjoiMTY2MGIxYzliZDE2MTI1MWU0YjliOGQ2ODFkYzdmMWJhZTVmNzk4MiJ9
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
+
+
