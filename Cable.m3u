@@ -41,8 +41,8 @@ https://edge5-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://edge3.prepro.cvattv.com.ar/live/live/Canal_de_las_estrellas/SA_Live_WebVTT_FTA/Canal_de_las_estrellas.m3u8
-#EXTINF:-1, GOLDEN EDGE
-http://23.148.145.49:9001/televall2022/713_.m3u8?token=W7MoG0p3gBc-bhhWhG5Ppg&expires=1653288378
+#EXTINF:-1, GOLDEN PREMIER
+http://ss1.mxl-apps.io:2052/iptv_data/app/script/tv/ab606f0971627461a36b08cbd1343bc3453d968a/f9f2d0e0bb98d5c9d4d2e75cd0aa3e01f820f343/100210_12.m3u8
 #EXTINF:-1, ESTUDIO UNIVERSAL
 https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1, WARNER CHANEL
