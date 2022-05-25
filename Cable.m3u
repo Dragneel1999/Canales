@@ -46,7 +46,7 @@ http://ss1.mxl-apps.io:2052/iptv_data/app/script/tv/ab606f0971627461a36b08cbd134
 #EXTINF:-1, ESTUDIO UNIVERSAL
 https://edge5-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 #EXTINF:-1, WARNER CHANEL
-
+https://edge2-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1, UNIVERSAL CHANEL
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1, CARTOON NETWORK
