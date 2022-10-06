@@ -110,7 +110,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5e6a4d875d
 #EXTINF:-1, LA ROSA DE GUADALUPE
 https://m110605-fcdn.mp.lura.live/live/ephemeral/Zr1lWMPho8BXJT5McM58ercgR5xPLDvG/z005/488k/tsVpTnU6N9P/166769/segment_166769625-video.mp4?Expires=1653452925&KeyName=cdnkey1&Signature=9d_M0T1wCX_ig3RGvRXFL08vBAk
 #EXTINF:-1, TLC
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc_hls/track_0_1500/playlist.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
