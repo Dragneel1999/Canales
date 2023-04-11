@@ -30,7 +30,7 @@ https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/49_.m3u8?token=PZPYERX0d
 #EXTINF:-1, HISTORY 2
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 #EXTINF:-1, SONY
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CuoERJY7xJ8ZjojV9RfMDP_TaJWbRyQl5BIV4R-rp9MpnVfC9NFLq8j8cjCd-qj_0waceXSXxK6tAv1Kpr9CgOmhvjvDVc7aIERzYYYz87Dbg9XMSCbQ7zr_B8bcl60hDYiw43oy7GxbErlkDLa3FidEAVP-8nq__91TI2Q_dm34gPz98ChrTouVJf3QwSyBnP6zVQCzkhiiRE5okjPaDi_syUuriHe6QwqAgZamrGtHxJlDs4eWirBFohaXZ41PLwOQHxi8FsYp9MHx0AK722QnfuxiTcRnKOL2RPRjjsZtyNKpLVZsxSvk4Lsy7OxVGPZsMiAmlZNNW8tVJBlsTMHkLhJgxPRUO8-KC2fpbnUGwnDVCnyBtlmkzXkqXB-BZVSHOg6OcShdk1XlSZu4mV1VPAlw6csZYtTtvxUAsDB5WjlBBZ5iHigZVQOSg_BCd6-5HpduZeMXXRf9rshVP7EDZrHi4DoTQbuZ_8Ip1WAaiDoejMlt8R2zfcoAumTEk3-c8Lwou53XI1XQcAqQuwz8-BAQxN0qQGLE2sgBhW6Ly3OH_7lfZxqeDdTAp3QsXycbitMUFB5yft5I_v-L23SqNc1K3ELDezzN4kyOaT_XBg55XYtSUnbuHwcLdYf9IdNjpZ0jVRHGMSzRULEgiqz8HupV0X144zNEn4wBGH005xB6iHBn-SMmbc4FiXCYZN6KMctJQ7f0aVbELD3fTaIP4I_iwSAnbqT8JrlYJT0dVqHawITnoY-Xo2hz9xnfJrZNcMj_Kg70C1t2rGC7PJ_XSvM_M97iTc8_dGqbBRM6_O5MQN6xLO0PCXVSGgwbX3ylo9aWOCzN-iYgASoJZXUtd2VzdC0yMOwE.m3u8
+https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/77_.m3u8?token=mkMS63nA1AHD6lgTRQB69A&expires=1681255415
 #EXTINF:-1, CINE CANAL
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/44_.m3u8?token=kHLi7YNCAqKa8iAa6ZBBEQ&expires=1681210420
 #EXTINF:-1, CINEMAX
@@ -38,7 +38,7 @@ https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/43_.m3u8?token=l8FENAibe
 #EXTINF:-1, SPACE
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/39_.m3u8?token=OJs3uD2KhJssE2mcz1CfDw&expires=1681210719
 #EXTINF:-1, PARAMOUNT
-https://edge-vod02-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/83_.m3u8?token=dTxIwhGyXtiAO2DuG1jA1g&expires=1681255173
 #EXTINF:-1, CANAL DE LAS ESTRELLAS
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/57_.m3u8?token=ItsvLrObPmZ-GcZC342kWw&expires=1681211217
 #EXTINF:-1, GOLDEN PLUS
@@ -86,7 +86,7 @@ https://edge5-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 #EXTINF:-1, FX
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/70_.m3u8?token=ENAK-0Yy-Ut_A7KuuLyMxQ&expires=1681211410
 #EXTINF:-1, LIFETIME
-https://edge2-hr.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime-mp4a_145200_spa=20003.m3u8
+https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/104_.m3u8?token=9mhL-IEx3zjKL6-sXwsF2Q&expires=1681255672
 #EXTINF:-1, CANAL 13
 https://www.dailymotion.com/cdn/live/video/x7u200z.m3u8?sec=P8i8n-s6VjCjdtX9P8dHA4IhimLE38X_29HQZGEZb2_X5NAwNhhOwJxKrouCV9pIiZo3ZBUU3ABYbZQzWvuPng&dmTs=614293&dmV1st=C84A236D275E6447E517382220697BCC
 #EXTINF:-1, CANAL 12
@@ -120,7 +120,15 @@ https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/47_.m3u8?token=1PivYG-p5
 #EXTINF:-1, STAR ACTION
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/138_.m3u8?token=OolidqmwObkVO6P4xVwNaA&expires=1681213806
 #EXTINF:-1, DISNEY CHANEL
-https://ddy6.onlinewebtv.lol/ddy6/premium312/playlist.m3u8
+https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/353_.m3u8?token=FecHiyp9jLDh8458b9mxRg&expires=1681254547
+#EXTINF:-1, GOLDEN
+https://live.tvplusgratis.com:8080/MTkwLjE0My4yNTEuMTE1/62_.m3u8?token=TcOOl1Jf0qISyM33khg4vg&expires=1681251444
+#EXTINF:-1, DHE
+https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/107_.m3u8?token=BloYL16_NB_zv9iJqBiXJA&expires=1681255500
+#EXTINF:-1, FILM Y ARTS
+https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/328_.m3u8?token=4xZ23kbmC8U7PH30i-lU-w&expires=1681255598
+#EXTINF:-1,
+
 #EXTINF:-1,
 
 #EXTINF:-1,
