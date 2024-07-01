@@ -3,7 +3,7 @@
 #EXTINF:-1, H&H
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/97_.m3u8?token=0qcEltBGAyF48Ci5aln07A&expires=1681212877
 #EXTINF:-1, TNT
-https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/41_.m3u8?token=YzvHTxre5utssbR4TQsSsQ&expires=1681209490
+https://live.sdfgnksbounce.com:8080/MTkwLjE0My4yNTAuMTQx/41_.m3u8?token=6a8nyRxmjV_Ze1P5C3bmoA&expires=1719890165
 #EXTINF:-1, HBO2
 https://edge-vod02-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 #EXTINF:-1, HBO PLUS
@@ -33,7 +33,7 @@ https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/77_.m3u8?token=mkMS63nA1
 #EXTINF:-1, CINE CANAL
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/44_.m3u8?token=kHLi7YNCAqKa8iAa6ZBBEQ&expires=1681210420
 #EXTINF:-1, CINEMAX
-https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/43_.m3u8?token=l8FENAibeS-YfkQVGUWXqg&expires=1681210813
+https://live.sdfgnksbounce.com:8080/MTkwLjE0My4yNTAuMTQx/43_.m3u8?token=WaOKt7AzynvqkamokphlIQ&expires=1719890556
 #EXTINF:-1, SPACE
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/39_.m3u8?token=OJs3uD2KhJssE2mcz1CfDw&expires=1681210719
 #EXTINF:-1, PARAMOUNT
@@ -45,7 +45,7 @@ https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/73_.m3u8?token=kLVIRyiSa
 #EXTINF:-1, ESTUDIO UNIVERSAL
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/80_.m3u8?token=V1Wbwt2DRDKsIg1DHnj2KA&expires=1681212026
 #EXTINF:-1, UNIVERSAL CHANEL
-https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/79_.m3u8?token=HHQsx1sJPKr_v4Y69vbq6g&expires=1681211962
+https://live.sdfgnksbounce.com:8080/MTkwLjE0My4yNTAuMTQx/79_.m3u8?token=aWM5jE4yFRFAl9AKQMl9Yg&expires=1719890053
 #EXTINF:-1, WARNER CHANEL
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/341_.m3u8?token=dw5jO2YBP2_EbOmj4_AZRA&expires=1681210062
 #EXTINF:-1, CARTOON NETWORK
@@ -121,9 +121,9 @@ https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/138_.m3u8?token=Oolidqmw
 #EXTINF:-1, DISNEY CHANEL
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/353_.m3u8?token=FecHiyp9jLDh8458b9mxRg&expires=1681254547
 #EXTINF:-1, GOLDEN
-https://live.tvplusgratis.com:8080/MTkwLjE0My4yNTEuMTE1/62_.m3u8?token=TcOOl1Jf0qISyM33khg4vg&expires=1681251444
-#EXTINF:-1, DHE
-https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/107_.m3u8?token=BloYL16_NB_zv9iJqBiXJA&expires=1681255500
+https://1279247418.rsc.cdn77.org/bpk-tv/QGOLDHTV/dash/dash/QGOLDHTV-audio_132128_spa=128000-82554024168271.dash
+#EXTINF:-1, STAR CHANEL
+https://live.sdfgnksbounce.com:8080/MTkwLjE0My4yNTAuMTQx/42_.m3u8?token=YG7RiAD_0Ozj3IIIFdkgfw&expires=1719890357
 #EXTINF:-1, FILM Y ARTS
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/328_.m3u8?token=4xZ23kbmC8U7PH30i-lU-w&expires=1681255598
 #EXTINF:-1,
