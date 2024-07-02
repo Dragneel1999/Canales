@@ -97,7 +97,7 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8?wmsAuthSign=c2Vy
 #EXTINF:-1, CANAL 6
 https://www.dailymotion.com/cdn/live/video/x7nngbi.m3u8?sec=WVn4cNJlvHIjHOHh2t1zjVx0Klqdwc2PexZGX69bW8o4B_P1rta9g5nSX_USD4F9-7oiGv6jP3Vyp3Ig1OBHnA&dmTs=745330&dmV1st=5504A7F4CE99727AF399DF2AD2E4CED8
 #EXTINF:-1, CANAL 4
-https://www.dailymotion.com/cdn/live/video/x7rwv8c.m3u8?sec=2shwlSVpZ0rr-Ed7k9Pwgwl2Pvx5gFl3DPjZohcvlOg4KYkr-_z-vo8WOLIxLMf6IBqoeRTM8zIoZwJrtMK7sQ&dmTs=745330&dmV1st=5504A7F4CE99727AF399DF2AD2E4CED8
+http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
 #EXTINF:-1, NATIONAL GEOGRAPHIC
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/92_.m3u8?token=bWPXdfNir1iIizRSQy00QQ&expires=1681212500
 #EXTINF:-1, COMEDIA CENTRAL
@@ -128,8 +128,8 @@ https://live.sdfgnksbounce.com:8080/MTkwLjE0My4yNTAuMTQx/42_.m3u8?token=YG7RiAD_
 https://live.telelatinohd.com:8080/MTkwLjE0My4yNTEuMTE1/328_.m3u8?token=4xZ23kbmC8U7PH30i-lU-w&expires=1681255598
 #EXTINF:-1, SONY CINEMA
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1, VOS TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
